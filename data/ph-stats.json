@@ -1,6 +1,17 @@
 {
   "slug": "kwikvoice",
-  "fetchedAt": null,
-  "post": null,
-  "error": "Not fetched yet - workflow has not run"
+  "fetchedAt": "2026-09-21T16:05:29.427Z",
+  "post": {
+    "id": "1256053",
+    "name": "KwikVoice",
+    "tagline": "Free invoice generator that never leaves your browser",
+    "votesCount": 0,
+    "commentsCount": 1,
+    "reviewsCount": 0,
+    "reviewsRating": 0,
+    "featuredAt": null,
+    "url": "https://www.producthunt.com/products/kwikvoice?launch=kwikvoice&utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+KwikVoice+Dashboard+%28ID%3A+299926%29",
+    "website": "https://www.producthunt.com/r/F3TBLWAASZRNTP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+KwikVoice+Dashboard+%28ID%3A+299926%29"
+  },
+  "error": null
 }
