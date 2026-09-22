@@ -1,6 +1,6 @@
 {
   "slug": "kwikvoice",
-  "fetchedAt": "2026-09-22T01:43:15.794Z",
+  "fetchedAt": "2026-09-22T07:07:41.424Z",
   "post": {
     "id": "1256053",
     "name": "KwikVoice",
@@ -10,7 +10,7 @@
     "reviewsCount": 0,
     "reviewsRating": 0,
     "featuredAt": null,
-    "url": "https://www.producthunt.com/products/kwikvoice?launch=kwikvoice&utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+KwikVoice+Dashboard+%28ID%3A+299926%29",
+    "url": "https://www.producthunt.com/products/kwikvoice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+KwikVoice+Dashboard+%28ID%3A+299926%29",
     "website": "https://www.producthunt.com/r/F3TBLWAASZRNTP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+KwikVoice+Dashboard+%28ID%3A+299926%29"
   },
   "error": null
